@@ -1,0 +1,26 @@
+{
+    "name": "Halba Darpan",
+    "short_name": "Halba Darpan",
+	"app_name": "Halba Darpan",
+	"description": "Halba Darpan",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#141d1f",
+    "background_color": "#141d1f",
+    "display": "standalone",
+	"lang": "en-US",
+	"dir": "ltr",
+	"orientation": "any",
+	"scope": "/",
+	"start_url": "/"
+}
